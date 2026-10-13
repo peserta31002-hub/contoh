@@ -1,0 +1,7 @@
+README.md
+*.log
+.DS_Store
+.git
+.github
+node_modules
+.next
